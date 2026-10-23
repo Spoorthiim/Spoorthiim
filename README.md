@@ -1,25 +1,30 @@
-HTML
 <h1 align="center">Hi... 👋, I'm Spoorthi M</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Explorer | Insight Seeker 📊</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
-I'm passionate about technology, software development, and continuously learning new skills. I enjoy solving problems, writing clean and readable code, and building reliable applications. I'm currently working on improving my programming skills and exploring full-stack development.
+I'm passionate about exploring the world of data and discovering the stories hidden behind numbers. 📈 I enjoy analyzing information, identifying patterns, solving problems, and transforming raw data into meaningful insights.
+
+My goal is to build a strong foundation in data science, statistical analysis, and machine learning while continuously learning new technologies. I believe every dataset has a story to tell, and I'm excited to uncover it through curiosity, creativity, and analytical thinking.
+
+💡 **My mindset:** Ask questions, explore data, discover patterns, and turn insights into impact.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
@@ -49,16 +54,23 @@ I'm passionate about technology, software development, and continuously learning
 
 ---
 
-### 🎮 Fun Fact
+### 🧠 Data Science Mindset
 
-Learning, coding, and building new things every day! 🚀
-I'm excited to grow my skills in software development and turn creative ideas into real-world applications.
+🔍 Exploring data to uncover hidden patterns.
+
+📊 Turning raw numbers into meaningful insights.
+
+🤖 Learning how machine learning can solve real-world problems.
+
+💡 Believing that behind every dataset lies an opportunity to discover something new.
+
+**My motto:** "Don't just collect data. Understand it, question it, and let it tell its story." ✨
 
 ---
 
 ### 📫 Let's Connect!
 
-Feel free to reach out to me for collaborations, projects, or just a chat!
+I'm always open to connecting with fellow data enthusiasts, learning from others, collaborating on projects, and exploring new ideas in data science.
 
 <div align="center">
   <a href="https://github.com/Spoorthiim">
@@ -75,7 +87,5 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 ---
 
 <div align="center">
-  Made with ❤️ using <a href="https://github.com/Spoorthiim">GitHub</a>
+  Made with ❤️, curiosity, and data | <a href="https://github.com/Spoorthiim">Spoorthi M on GitHub</a>
 </div>
-
-Copied
